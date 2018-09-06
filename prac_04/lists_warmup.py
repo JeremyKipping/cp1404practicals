@@ -10,6 +10,7 @@ numbers[3:4]
 "3" in numbers
 numbers + [6, 5, 3]
 
-numbers -[2]
-numbers + [1]
-numbers [3:8]
+numbers[0] = 10
+numbers[-1] = 1
+numbers[2:]
+9 in numbers
